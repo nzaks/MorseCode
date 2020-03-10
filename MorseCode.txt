@@ -1,0 +1,62 @@
+a .-
+b -...
+c -.-.
+d -..
+e .
+f ..-.
+g --.
+h ....
+i ..
+j .---
+k -.-
+l .-..
+m --
+n -.
+o ---
+p .--.
+q --.-
+r .-.
+s ...
+t -
+u ..-
+v ...-
+w .--
+x -..-
+y -.--
+z --..
+1 .----
+2 ..---
+3 ...--
+4 ....-
+5 .....
+6 -....
+7 --...
+8 ---..
+9 ----.
+0 -----
+period (.) .-.-.-
+comma (,) --..--
+colon (:) ---...
+question (?) ..--..
+apostrophe (') .----.
+dash (-) -....-
+fraction (/) -..-.
+left parenthesis ( -.--.
+right parenthesis ) -.--.-
+quotation (before and after) .-..-.
+equal (=) -...-
+understood ...-.
+error ........
+addition (+) .-.-.
+end of work ...-.-
+starting signal -.-.-
+multiplication (X) -..-
+at (@) .--.-.
+
+Spacing:
+~a dot is 1 time unit
+~a dash (-) is equal to 3 dots (...)
+~space between any two dash/dot = 1 time unit
+~space between two of same letter = 1 dot (.)
+~space between any two letters = 3 dots (...)
+~space between two words = 7 dots (.......)
